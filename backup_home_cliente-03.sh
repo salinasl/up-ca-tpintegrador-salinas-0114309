@@ -9,4 +9,3 @@ then
 else
 	echo "Cliente-03 offline -- No se ejecuta RSYNC"
 fi
-#date=$( date + %Y%m%d_%H%M%S )
